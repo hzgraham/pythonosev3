@@ -1,5 +1,0 @@
-from models import ThisModel, ThatModel
-from django.contrib import admin
-
-admin.site.register(ThisModel)
-admin.site.register(ThatModel)
